@@ -27,8 +27,8 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # API Keys
-SERPAPI_KEY = "8247ff32a057d8b230e073068f3da30e51261fe7535e1bc0468064bedffd8a3c"
-GEMINI_KEY = "AIzaSyDCsW36FPu38wqYzPRHSxaeHpgvC5NcAWw"
+SERPAPI_KEY = "YOUR_API_KEY_HERE"
+GEMINI_KEY = "YOUR_API_KEY_HERE"
 
 # Initialize Langchain components
 llm = ChatGoogleGenerativeAI(model="gemini-pro", google_api_key=GEMINI_KEY)
