@@ -132,8 +132,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📬 Contact
 
 For questions and feedback:
-- 📧 Email: your.email@example.com
-- 🌐 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/nitin-sagar-boyeena)
+- 📧 Email: nitinsagar2004@gmail.com
+- 🌐 LinkedIn: [Add me to your network via this link!](https://linkedin.com/in/nitin-sagar-boyeena)
 
 ---
 
