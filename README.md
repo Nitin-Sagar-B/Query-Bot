@@ -26,8 +26,8 @@ Ensure you have Python 3.8+ installed on your system. All dependencies are liste
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Query-bot.git
-cd querybot
+git clone https://github.com/yourusername/Query-Bot.git
+cd Query-Bot
 ```
 
 2. Install dependencies:
